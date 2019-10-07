@@ -35,3 +35,9 @@ maxlrc代表最多显示的歌词条数。
 4.输入e结束后，程序自动写入music.js，如图所示：
 
 ![](https://i.loli.net/2019/09/08/lkP4NvAwLS56ycC.png)
+
+#### 使用注意
+
+1.要用python3运行
+
+2.没有的库全部装上
